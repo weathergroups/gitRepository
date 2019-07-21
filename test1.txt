@@ -4,3 +4,4 @@ java
 spark
 scala
 kafka
+flume
