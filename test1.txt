@@ -4,4 +4,5 @@ java
 spark
 scala
 kafka
-flume
+flumei
+hadoop
